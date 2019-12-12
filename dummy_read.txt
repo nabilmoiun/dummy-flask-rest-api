@@ -1,0 +1,1 @@
+Simple flask rest api (CRUD) using sqlalchemy and mysql
